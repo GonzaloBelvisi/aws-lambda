@@ -64,7 +64,7 @@ Cada una de estas funciones Lambda está diseñada para interactuar con DynamoDB
    - Configurar métodos HTTP (GET, POST) según corresponda para cada endpoint.
    - Habilitar el uso de HTTPS para asegurar el cifrado en tránsito.
 
-EJ:
+**Cuerpos de Solicitud:**
 
 Sumar Saldo
 
