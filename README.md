@@ -66,7 +66,7 @@ Cada una de estas funciones Lambda está diseñada para interactuar con DynamoDB
 
 **Cuerpos de Solicitud:**
 
-Sumar Saldo
+**Sumar Saldo:**
 
 {
     "saldo_actual": 100,
@@ -74,7 +74,7 @@ Sumar Saldo
 }
 
 
-Realizar Transferencia Lambda:
+**Realizar Transferencia Lambda:**
 
 {
     "usuario_origen": "usuario1",
