@@ -63,3 +63,22 @@ Cada una de estas funciones Lambda está diseñada para interactuar con DynamoDB
    - Crear un API en Amazon API Gateway y exponer cada Lambda como un endpoint HTTP.
    - Configurar métodos HTTP (GET, POST) según corresponda para cada endpoint.
    - Habilitar el uso de HTTPS para asegurar el cifrado en tránsito.
+
+EJ:
+
+Sumar Saldo
+
+{
+    "saldo_actual": 100,
+    "cantidad": 50
+}
+
+
+Realizar Transferencia Lambda:
+
+{
+    "usuario_origen": "usuario1",
+    "usuario_destino": "usuario2",
+    "saldo_actual": 500,
+    "monto_transferencia": 100
+}
